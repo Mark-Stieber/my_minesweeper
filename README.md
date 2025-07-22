@@ -1,6 +1,6 @@
 # my_minesweeper
 
-(Playable But missing some functionality)
+(Playable but missing some functionality)
 
 **To Play**:
 Download the textures and .dll files as well as the .exe and run.
